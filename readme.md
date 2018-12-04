@@ -1,5 +1,5 @@
 # First-portfolio
-####Independent Project 1, dated :23/11/2018
+####Independent Project 2, dated :23/11/2018
 #### By **Wakarima M Wangechi**
 ## Description
 ![Types of triangles]("../css/image/image.png")
