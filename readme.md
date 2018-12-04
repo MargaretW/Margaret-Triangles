@@ -1,34 +1,22 @@
-# TRIANGLE-TRACKER
-#### Triangles based on sides, 30-11-2018
-#### By **MargaretW**
+# First-portfolio
+####Independent Project 1, dated :23/11/2018
+#### By **Wakarima M Wangechi**
 ## Description
-![types of triangles based on sides](https://github.com/MargaretW/Triangles/blob/master/css/image/types-of-triangles.png)
+![Types of triangles]("../css/image/types-of-triangles.png")
 
-The application will enable the user input length of the sides of a figure, after which the application will tell the user whether the figure is a triangle or not. If a triangle,the application will inform the user on what type it is.
-section
-
+This application helps the user identify they types of triangles in relation to sides; based on the data they input in the databox.
 ## Setup/Installation Requirements
-first, one must create a github account at [github](https://github.com) then fork the application [here](https://github.com/MargaretW/Triangles). clone it to your preferred location by;
-...
-git clone command on your terminal
-navigate to your cloned repository
-open editor to make changes using atom . command for Atom users and code . for Visual Studio Code users.
-...
+first have a github account if you do not, create an account
+fork the application from github
+clone it to make a copy in your local directory
+make any modifications.
 ## Known Bugs
-There are no known bugs however if any you may contact me with the link provided in the contact section.
-section
-## BDD
-* Assuming the user wants to know what type of a triangle they are working with.
-* And the user has the length of the sides
-* when the user inputs data in the dataBox
-* then the input will be translated to what type of triangle it is.
-## Technologies Used
-1.JavaScript
-2. Cascading Style Sheets
-3. Hypertext Markup Language
-section
+no known bags but one can hit ctrl+shift +I on keyboard for debugging
+## Usage
+First clone to your local directory to make any modifications.
 ## Support and contact details
-You can contact me via [LinkedIn](https://www.linkedin.com/in/margaret-wangechi/)
-section
-## License
-Copyright (c) {2018} **{MargaretW}**
+Incase of any issues,contact me on [linkedin](https://www.linkedin.com/in/margaret-wangechi/)shown. Will respond almost immediately.
+### License
+
+Copyright (c) {2018}
+**Wangechi m Wakarima**
