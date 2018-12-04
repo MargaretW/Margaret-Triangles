@@ -35,7 +35,6 @@ p {
   padding:20px ;
   align-self: center ;
   background-color: orange;
-  background-repeat: no-repeat;
   width: 30% ;
 }
 .input {
@@ -43,6 +42,7 @@ p {
   font-style: italic;
   padding-top: 40px;
   padding-bottom: 40px;
+  color: white;
 }
 .button {
     background-color: white;
