@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+    Margaret Wangechi Wakarima project 2
+    </title>
+    <link href="css/styles.css" rel="stylesheet" type="text/css" media="screen">
+    <script src="js/script.js" ></script>
+  </head>
+
+  <body>
+    <h1>
+      TRIANGLE TRACKER
+    </h1>
+
+    <p>
+      There are six types of triangles, 3 in relation to sides and 3 to angles. In this page, I focused on those in relation to sides. These are ;
+    </p>
+      <div class="list">
+        <ol>
+          <li>Equilateral</li>
+          <li>Isosceles</li>
+          <li>Scalene</li>
+        </ol>
+      </div>
+
+    <p>
+      The page will help you identify what type of a triangle  it is by clicking in the data box space and add the length of each size below. It will also help you know whether your figure is a triangle or not.
+    </p>
+
+    <form  class="data-box" method="post">
+      <div class="input">
+        <label for="x">
+          Enter value of side x:
+        </label>
+        <input type="text" id="x">
+      </div>
+      <br>
+
+      <div class="input">
+        <label for="y">
+          Enter value of side y:
+        </label>
+        <input type="text" id="y">
+      </div>
+      <br>
+
+      <div class="input">
+        <label for="z">
+          Enter value of side z:
+        </label>
+        <input type="text" id="z">
+      </div>
+      <br>
+      <button class="button" type="button" onclick="dataBox()">Test</button>
+      <br>
+       <input type="reset" class="reset" value="Reset the page">
+    </form>
+
+  </body>
+</html>

@@ -1,0 +1,64 @@
+body {
+  background-image: url("../css/image/image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+color: fuchsia;
+font-family: fantasy;
+font-size: 50px;
+margin:auto;
+font-style: italic;
+padding-top: 4px;
+}
+p {
+  color: darkblue ;
+  font-size: 30px;
+  font-style: oblique;
+  margin: auto;
+  padding: 3px;
+}
+.list {
+  border: 5px solid red;
+  padding: 10px;
+  width: 20%;
+  align-content: center;
+  background-color: lime;
+  font-style: normal;
+  font-size: 25px;
+  margin-left: 400px;
+}
+.data-box {
+  border: 2px solid white ;
+  margin-left: 600px;
+  min-height: 500px;
+  padding:20px ;
+  align-self: center ;
+  background-color: orange;
+  background-repeat: no-repeat;
+  width: 30% ;
+}
+.input {
+  font-size: 30px;
+  font-style: italic;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.button {
+    background-color: white;
+    border:4px solid black;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 200px;
+}
+.reset {
+  background-color: white;
+  border:4px solid black;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: 200px;
+}
