@@ -14,10 +14,7 @@ section
 * then the application will let them know what type of a triangle it is .
 
 ## Setup/Installation Requirements
-first have a github account if you do not, create an account
-fork the application from github
-clone it to make a copy in your local directory
-make any modifications.
+create a [Github account](https://github.com)
 section
 ## Known Bugs
 no known bags but one can hit ctrl+shift +I on keyboard for debugging
