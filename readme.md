@@ -16,7 +16,7 @@ section
 ## Setup/Installation Requirements
 * create a [Github account](https://github.com)
 * fork the application [Here](https://github.com/MargaretW/Margaret-Triangles)
-* clone to personal computer incase of contribution to it.
+* clone to personal computer in case of contribution to it.
 section
 ## Known Bugs
 no known bags however in case of any, kindly contact me as shown in the contact section.
