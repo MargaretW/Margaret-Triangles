@@ -19,7 +19,7 @@ section
 * clone to personal computer incase of contribution to it.
 section
 ## Known Bugs
-no known bags but one can hit ctrl+shift +I on keyboard for debugging
+no known bags however in case of any, kindly contact me as shown in the contact section.
 section
 ## Technologies used
 Software used in the application include;
@@ -29,8 +29,7 @@ Software used in the application include;
 ## Usage
 First clone to your local directory to make any modifications.
 ## Support and contact details
-Incase of any issues,contact me on [linkedin](https://www.linkedin.com/in/margaret-wangechi/)shown. Will respond almost immediately.
+In case of any issues,contact me on [linkedin](https://www.linkedin.com/in/margaret-wangechi/)shown. Will respond almost immediately.
 ### License
-
 Copyright (c) {2018}
 **Wangechi m Wakarima**
