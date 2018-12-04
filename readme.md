@@ -2,7 +2,7 @@
 ####Independent Project 1, dated :23/11/2018
 #### By **Wakarima M Wangechi**
 ## Description
-![Types of triangles]("../css/image/types-of-triangles.png")
+![Types of triangles]("../css/image/image.png")
 
 This application helps the user identify they types of triangles in relation to sides; based on the data they input in the databox.
 section
