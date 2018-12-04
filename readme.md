@@ -14,7 +14,9 @@ section
 * then the application will let them know what type of a triangle it is .
 
 ## Setup/Installation Requirements
-create a [Github account](https://github.com)
+* create a [Github account](https://github.com)
+* fork the application [Here](https://github.com/MargaretW/Margaret-Triangles)
+* clone to personal computer incase of contribution to it.
 section
 ## Known Bugs
 no known bags but one can hit ctrl+shift +I on keyboard for debugging
