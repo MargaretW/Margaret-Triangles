@@ -1,5 +1,5 @@
 # First-portfolio
-####Independent Project 2, dated :23/11/2018
+####Independent Project 2, dated :4/12/2018
 #### By **Wakarima M Wangechi**
 ## Description
 This application helps the user identify they types of triangles in relation to sides; based on the data they input in the databox.
